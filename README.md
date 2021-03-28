@@ -22,6 +22,7 @@
 修改完成后：
 1. 提交修改：在命令行运行
     1. `git add .`
+    2. `git commit -m 几个字表示你改了什么`
     1. `git push origin`
 2. 打开 `https://github.com/xupefei/pooi.moe`，此页会出现一个黄色横幅。点击横幅中的 `Create a pull-request`。
 3. 点击绿色按钮确认创建PR。
