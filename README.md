@@ -10,10 +10,14 @@
 5. 在浏览器打开 `http://127.0.0.1:4000` 预览网站。
 
 开发过程：
-1. 添加一个新 git 分支：`git checkout -b 分支名`，`分支名`可以为任何英文字母组合。
-2. 修改任意文件。
-3. 运行 `bundle exec jekyll serve` 打开 `http://127.0.0.1:4000` 预览修改。按下 <kbd>CTRL</kbd> + <kbd>C</kbd>停止预览。
-4. 重复步骤 2 和 3。
+1. 同步最新版：
+    1. `git clean -xfd`
+    1. `git checkout -b master`
+    2. `git pull origin`
+2. 添加一个新 git 分支：`git checkout -b 分支名`，`分支名`可以为任何英文字母组合。
+3. 修改任意文件。
+4. 运行 `bundle exec jekyll serve` 打开 `http://127.0.0.1:4000` 预览修改。按下 <kbd>CTRL</kbd> + <kbd>C</kbd>停止预览。
+5. 重复步骤 3 和 4。
 
 修改完成后：
 1. 提交修改：在命令行运行
