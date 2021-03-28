@@ -92,11 +92,12 @@ font_settings:
     letter_spacing: 0
     line_height: 1.5
   menu:
-    small_size: 30
-    medium_size: 15
-    large_size: 16
-    weight: 500
-    letter_spacing: 0
+    small_size: 16
+    medium_size: 20
+    large_size: 24
+    weight: 200
+    letter_spacing: 0.1
+    line_height: 1.6
   grid_item_title:
     small_size: 22
     medium_size: 26

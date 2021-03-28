@@ -227,6 +227,8 @@
 	font-weight: $menu-weight;
 	color: $overlay-text-color;
 	padding: 10px 0;
+	letter-spacing: $menu-spacing;
+	line-height: $menu-line-height;
 
 	&:hover {
 		color: $overlay-accent-color;
