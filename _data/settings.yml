@@ -1,18 +1,20 @@
 basic_settings:
-  site_title: WTF???
-  site_tagline: WTF WTF WTF??/
-  favicon_image: /images/favicon.png
+  site_title: Apricot
+  site_tagline:
+  favicon_image: '/images/logo.png'
 
 header_settings:
-  logo_image: 
-  logo_width: 200
+  logo_image: '/images/logo.png'
+  logo_width: 300
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
-      url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Game'
+      url: '/game'
+    - title: 'Anime'
+      url: '/anime'
+    - title: 'Other'
+      url: '/other'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
@@ -29,6 +31,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
+  weibo_url: 'sfs'
   facebook_url: ''
   twitter_url: ''
   instagram_url: ''
@@ -70,9 +73,9 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Montserrat:300,500" rel="stylesheet">'
-  title_font: '"Montserrat", sans-serif'
-  body_font: '"Montserrat", sans-serif'
+  font_embed: ''
+  title_font: '"Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;'
+  body_font: '"Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;'
   regular_weight: 300
   bold_weight: 500
   site_title:
@@ -89,11 +92,12 @@ font_settings:
     letter_spacing: 0
     line_height: 1.5
   menu:
-    small_size: 30
-    medium_size: 15
-    large_size: 16
-    weight: 500
-    letter_spacing: 0
+    small_size: 16
+    medium_size: 20
+    large_size: 24
+    weight: 200
+    letter_spacing: 0.1
+    line_height: 1.6
   grid_item_title:
     small_size: 22
     medium_size: 26

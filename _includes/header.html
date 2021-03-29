@@ -21,33 +21,17 @@
 			<div class="menu__wrap">
 				<ul class="menu__list">
 					{% for item in site.data.settings.menu_settings.menu_items %}
-					<li class="menu__list__item">
-						<a href="{{ item.url | relative_url }}" class="menu__list__item__link">{{ item.title }}</a>
-					</li>
+						<li class="menu__list__item">
+							<a href="{{ item.url | relative_url }}" class="menu__list__item__link">{{ item.title }}</a>
+						</li>
 					{% endfor %}
 				</ul>
 			</div>
 		</div>
 
-		<div class="projects-menu">
-			<ul class="menu__list">
-				{% for project in site.projects reversed %}
-				<li class="menu__list__item">
-					<a href="{{ project.url | relative_url }}" class="menu__list__item__link">{{ project.title }}</a>
-				</li>
-				{% endfor %}
-			</ul>
-		</div>
-
 		<div class="header__lower">
 
 			{% include socials.html %}
-
-			<div class="footer__copyright">
-				<span>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}</span>
-				<a href="https://jekyllthemes.io" target="_blank">Jekyll Themes</a>
-			</div>
-
 		</div>
 
 	</div>
