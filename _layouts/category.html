@@ -5,7 +5,8 @@ layout: default
 <section class="portfolio">
     <div class="content-wrap portfolio-wrap">
         {% for post in site.categories[page.category-name] %}
-            <div class="portfolio-item">
+            <div class="portfolio-column"></div>
+            <div class="portfolio-item portfolio-column{{ post.featured_image_columns }}">
                 <a class="portfolio-item__link" href="{{ post.url | relative_url }}">
                     <div class="portfolio-item__image">
                         <img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}">
