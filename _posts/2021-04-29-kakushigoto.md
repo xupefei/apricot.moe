@@ -6,7 +6,7 @@ categories:
 - anime
 show_on_index: true
 description: This page is a demo that shows everything you can do inside portfolio and blog posts. 
-featured_image: '/images/posts/kakushigoto.jpg'
+featured_image: '/images/posts/kakushigoto.png'
 ---
 
-![](/images/posts/kakushigoto.jpg)
+![](/images/posts/kakushigoto.png)
