@@ -12,7 +12,8 @@ description: A minimal, fixed sidebar grid portfolio Jekyll theme.
 			{% if project.show_on_index != true %}
 			{% continue %}
 			{% else %}
-			<div class="portfolio-item">
+			<div class="portfolio-column"></div>
+			<div class="portfolio-item portfolio-column{{ project.featured_image_columns }}">
 				<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
 					<div class="portfolio-item__image">
 						<img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
