@@ -1,7 +1,7 @@
 basic_settings:
   site_title: Apricot
   site_tagline:
-  favicon_image: '/images/logo.png'
+  favicon_image: '/images/favicon.png'
 
 header_settings:
   logo_image: '/images/logo.png'
@@ -21,8 +21,8 @@ menu_settings:
       url: '/contact'
 
 grid_settings:
-  overlay_opacity: 0.8
-  grid_spacing: 0
+  overlay_opacity: 0.7
+  grid_spacing: 10
 
 contact_settings:
   form_action: ''
