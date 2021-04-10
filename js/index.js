@@ -129,7 +129,9 @@
 			$('.portfolio-wrap').imagesLoaded( function() {
 				$('.portfolio-wrap').masonry({
 					itemSelector: '.portfolio-item',
-					transitionDuration: 0
+					columnWidth: '.portfolio-column',
+					transitionDuration: 0,
+					percentPosition: true,
 				});
 			});
 
@@ -137,7 +139,8 @@
 			$('.blog-wrap').imagesLoaded( function() {
 				$('.blog-wrap').masonry({
 					itemSelector: '.blog-post',
-					transitionDuration: 0
+					transitionDuration: 0,
+					percentPosition: true,
 				});
 			});
 

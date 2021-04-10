@@ -14,10 +14,23 @@
 }
 
 .portfolio-item {
-	position: relative;
 	padding: $grid-spacing/2;
-	float: left;
+}
+
+.portfolio-sizer, .portfolio-column, .portfolio-column1 {
+	width: 25%;
+}
+
+.portfolio-column2 {
 	width: 50%;
+}
+
+.portfolio-column3 {
+	width: 75%;
+}
+
+.portfolio-column4 {
+	width: 100%;
 }
 
 .portfolio-item__link {
