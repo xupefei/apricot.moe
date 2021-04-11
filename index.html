@@ -4,29 +4,31 @@ layout: default
 
 <section class="portfolio">
 
-	<div class="content-wrap portfolio-wrap">
+    <div class="content-wrap portfolio-wrap">
+        <div class="portfolio-column"></div>
+        {% for post in site.posts reversed %}
+        {% if post.show_on_index != true %}
+        {% continue %}
+        {% else %}
+        <div class="portfolio-item portfolio-column-{% if post.featured_image_columns %}{{post.featured_image_columns}}{% else %}1{% endif %}">
+            <a class="portfolio-item__link"
+               href="{% if post.external_link %}{{post.external_link}}{% else %}{{ post.url | relative_url }}{% endif %}"
+               target="{% if post.external_link %}_blank{% endif %}"
+            >
+                <div class="portfolio-item__image">
+                    <img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}">
+                </div>
+                <div class="portfolio-item__content">
+                    <div class="portfolio-item__info">
+                        <h2 class="portfolio-item__title">{{ post.title }}</h2>
+                        <p class="portfolio-item__subtitle">{{ post.subtitle }}</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        {% endif %}
+        {% endfor %}
 
-		{% for project in site.posts reversed %}
-			{% if project.show_on_index != true %}
-			{% continue %}
-			{% else %}
-			<div class="portfolio-column"></div>
-			<div class="portfolio-item portfolio-column{{ project.featured_image_columns }}">
-				<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
-					<div class="portfolio-item__image">
-						<img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
-					</div>
-					<div class="portfolio-item__content">
-						<div class="portfolio-item__info">
-							<h2 class="portfolio-item__title">{{ project.title }}</h2>
-							<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			{% endif %}
-		{% endfor %}
-
-	</div>
+    </div>
 
 </section>

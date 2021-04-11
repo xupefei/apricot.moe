@@ -5,9 +5,7 @@ date: 2021-04-30 00:00:00
 categories:
 - anime
 show_on_index: true
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/posts/bangdream.png'
 featured_image_columns: 2
+external_link: 'https://www.bilibili.com/bangumi/play/ep100306'
 ---
-
-![](/images/posts/bangdream.png)

@@ -5,8 +5,6 @@ date: 2021-04-30 00:00:00
 categories:
 - anime
 show_on_index: true
-description: This page is a demo that shows everything you can do inside portfolio and blog posts. 
 featured_image: '/images/posts/kakushigoto.png'
+external_link: 'https://www.acfun.cn/bangumi/aa6001745_36188_1720005'
 ---
-
-![](/images/posts/kakushigoto.png)
