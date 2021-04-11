@@ -6,5 +6,5 @@ categories:
 - anime
 show_on_index: true
 featured_image: '/images/posts/kyokousuiri.png' 
-external_link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+external_link: 'https://www.bilibili.com/bangumi/play/ss29366/'
 ---
