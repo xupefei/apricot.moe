@@ -2,6 +2,7 @@ basic_settings:
   site_title: Apricot
   site_tagline:
   favicon_image: '/images/favicon.png'
+  touch_icon_image: '/images/touch.png'
 
 header_settings:
   logo_image: '/images/logo.png'
