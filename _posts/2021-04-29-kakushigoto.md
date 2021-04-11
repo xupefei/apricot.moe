@@ -6,5 +6,5 @@ categories:
 - anime
 show_on_index: true
 featured_image: '/images/posts/kakushigoto.png'
-external_link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+external_link: 'https://www.acfun.cn/bangumi/aa6001745_36188_1720005'
 ---
