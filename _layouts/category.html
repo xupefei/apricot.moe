@@ -4,21 +4,24 @@ layout: default
 
 <section class="portfolio">
     <div class="content-wrap portfolio-wrap">
+        <div class="portfolio-column"></div>
         {% for post in site.categories[page.category-name] %}
-            <div class="portfolio-column"></div>
-            <div class="portfolio-item portfolio-column{{ post.featured_image_columns }}">
-                <a class="portfolio-item__link" href="{{ post.url | relative_url }}">
-                    <div class="portfolio-item__image">
-                        <img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}">
+        <div class="portfolio-item portfolio-column-{% if post.featured_image_columns %}{{post.featured_image_columns}}{% else %}1{% endif %}">
+            <a class="portfolio-item__link"
+               href="{% if post.external_link %}{{post.external_link}}{% else %}{{ post.url | relative_url }}{% endif %}"
+               target="{% if post.external_link %}_blank{% endif %}"
+            >
+                <div class="portfolio-item__image">
+                    <img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}">
+                </div>
+                <div class="portfolio-item__content">
+                    <div class="portfolio-item__info">
+                        <h2 class="portfolio-item__title">{{ post.title }}</h2>
+                        <p class="portfolio-item__subtitle">{{ post.subtitle }}</p>
                     </div>
-                    <div class="portfolio-item__content">
-                        <div class="portfolio-item__info">
-                            <h2 class="portfolio-item__title">{{ post.title }}</h2>
-                            <p class="portfolio-item__subtitle">{{ post.subtitle }}</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
+                </div>
+            </a>
+        </div>
         {% endfor %}
     </div>
 </section>
