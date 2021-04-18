@@ -24,11 +24,11 @@
 	.wrap {
 
 		@include mq(tabletl) {
-			max-width: 70%;
+			max-width: 85%;
 		}
 
 		@include mq(laptop) {
-			max-width: 65%;
+			max-width: 80%;
 		}
 	}
 	
@@ -66,7 +66,7 @@
 		padding: 60px $grid-spacing;
 	}
 
-	h1, h2, h3, h4, h5, h6, p, ul, ol {
+	h1, h2, h3, h4, h5, h6, p, ul, ol, div {
 		margin-left: auto;
 		margin-right: auto;
 
@@ -74,11 +74,11 @@
 		}
 
 		@include mq(tabletl) {
-			max-width: 70%;
+			max-width: 85%;
 		}
 
 		@include mq(laptop) {
-			max-width: 65%;
+			max-width: 80%;
 		}
 	}
 
@@ -92,11 +92,11 @@
 		}
 
 		@include mq(tabletl) {
-			max-width: 70%;
+			max-width: 85%;
 		}
 
 		@include mq(laptop) {
-			max-width: 65%;
+			max-width: 80%;
 		}
 	}
 
@@ -144,12 +144,12 @@
 		}
 
 		@include mq(tabletl) {
-			max-width: 70%;
+			max-width: 85%;
 		}
 
 		@include mq(laptop) {
 			margin: 40px auto;
-			max-width: 65%;
+			max-width: 80%;
 		}
 	}
 
@@ -223,6 +223,20 @@
 			&:nth-child(2n) {
 				background: $background-alt-color;
 			}
+		}
+	}
+
+	.grid-container {
+		display: grid;
+		grid-column-gap: $grid-spacing;
+		grid-row-gap:  $grid-spacing;
+		grid-template-columns: auto auto auto auto;
+		padding: $grid-spacing;
+
+		.grid-item {
+			border: none;
+			padding: $grid-spacing;
+			text-align: center;
 		}
 	}
 
