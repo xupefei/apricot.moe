@@ -10,18 +10,18 @@ title: About us
 
 <div class="grid-container">
   <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/age.jpg" /></a></div>
-  //<div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/anitama.jpg" /></a></div>
-  //<div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/babeltime.jpg" /></a></div>
-  //<div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/bilibili.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/centurygames.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/gaea.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/gomashio.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/imagineer.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/kadokawa.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/letv.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/medialink.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/mgtv.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/pptv.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/sekaiproject.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/yostar.jpg" /></a></div>
+  <div class="grid-item"><a href="https://space.bilibili.com/11357018" target="_blank"><img alt="age" src="/images/customers/anitama.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.babeltime.com/" target="_blank"><img alt="age" src="/images/customers/babeltime.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.bilibili.com/" target="_blank"><img alt="age" src="/images/customers/bilibili.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.centurygames.com/" target="_blank"><img alt="age" src="/images/customers/centurygames.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.gaea.com/cn/" target="_blank"><img alt="age" src="/images/customers/gaea.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.gomashio.co.jp/" target="_blank"><img alt="age" src="/images/customers/gomashio.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.imagineer.co.jp/" target="_blank"><img alt="age" src="/images/customers/imagineer.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.kadokawa.co.jp/" target="_blank"><img alt="age" src="/images/customers/kadokawa.jpg" /></a></div>
+  <div class="grid-item"><a href="http://tv.le.com/" target="_blank"><img alt="age" src="/images/customers/letv.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.medialink.com.hk/en/home.aspx" target="_blank"><img alt="age" src="/images/customers/medialink.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.mgtv.com/" target="_blank"><img alt="age" src="/images/customers/mgtv.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.pptv.com/" target="_blank"><img alt="age" src="/images/customers/pptv.jpg" /></a></div>
+  <div class="grid-item"><a href="https://sekaiproject.com/" target="_blank"><img alt="age" src="/images/customers/sekaiproject.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.yostar.co.jp/" target="_blank"><img alt="age" src="/images/customers/yostar.jpg" /></a></div>
 </div>
