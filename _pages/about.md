@@ -10,9 +10,9 @@ title: About us
 
 <div class="grid-container">
   <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/age.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/anitama.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/babeltime.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/bilibili.jpg" /></a></div>
+  //<div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/anitama.jpg" /></a></div>
+  //<div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/babeltime.jpg" /></a></div>
+  //<div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/bilibili.jpg" /></a></div>
   <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/centurygames.jpg" /></a></div>
   <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/gaea.jpg" /></a></div>
   <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/gomashio.jpg" /></a></div>
