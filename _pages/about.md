@@ -1,45 +1,27 @@
 ---
-title: About Index
+title: About us
 ---
+## 关于我们
 
-## 1111
+我们因共通的兴趣而相互结识，专注于中文日文的互译  
+也期待志同道合的你的加入——
+
+## 合作伙伴
 
 <div class="grid-container">
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="https://pooi.moe/usr/themes/anzulove/img/20210108/a.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="https://pooi.moe/usr/themes/anzulove/img/20210108/a.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="https://pooi.moe/usr/themes/anzulove/img/20210108/a.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="https://pooi.moe/usr/themes/anzulove/img/20210108/a.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="https://pooi.moe/usr/themes/anzulove/img/20210108/a.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="https://pooi.moe/usr/themes/anzulove/img/20210108/a.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="https://pooi.moe/usr/themes/anzulove/img/20210108/a.jpg" /></a></div>
-  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="https://pooi.moe/usr/themes/anzulove/img/20210108/a.jpg" /></a></div>
+  <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/age.jpg" /></a></div>
+  <div class="grid-item"><a href="https://space.bilibili.com/11357018" target="_blank"><img alt="age" src="/images/customers/anitama.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.babeltime.com/" target="_blank"><img alt="age" src="/images/customers/babeltime.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.bilibili.com/" target="_blank"><img alt="age" src="/images/customers/bilibili.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.centurygames.com/" target="_blank"><img alt="age" src="/images/customers/centurygames.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.gaea.com/cn/" target="_blank"><img alt="age" src="/images/customers/gaea.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.gomashio.co.jp/" target="_blank"><img alt="age" src="/images/customers/gomashio.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.imagineer.co.jp/" target="_blank"><img alt="age" src="/images/customers/imagineer.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.kadokawa.co.jp/" target="_blank"><img alt="age" src="/images/customers/kadokawa.jpg" /></a></div>
+  <div class="grid-item"><a href="http://tv.le.com/" target="_blank"><img alt="age" src="/images/customers/letv.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.medialink.com.hk/en/home.aspx" target="_blank"><img alt="age" src="/images/customers/medialink.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.mgtv.com/" target="_blank"><img alt="age" src="/images/customers/mgtv.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.pptv.com/" target="_blank"><img alt="age" src="/images/customers/pptv.jpg" /></a></div>
+  <div class="grid-item"><a href="https://sekaiproject.com/" target="_blank"><img alt="age" src="/images/customers/sekaiproject.jpg" /></a></div>
+  <div class="grid-item"><a href="https://www.yostar.co.jp/" target="_blank"><img alt="age" src="/images/customers/yostar.jpg" /></a></div>
 </div>
-
-
-
-## Features
-
-Index is packed with powerful features to showcase your work:
-
-* Beautiful, minimal design
-* Fixed sidebar menu
-* Two-column masonry grid layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
-
-## Get Index
-
-Index is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
