@@ -25,3 +25,7 @@ title: About us
   <div class="grid-item"><a href="https://sekaiproject.com/" target="_blank"><img alt="age" src="/images/customers/sekaiproject.jpg" /></a></div>
   <div class="grid-item"><a href="https://www.yostar.co.jp/" target="_blank"><img alt="age" src="/images/customers/yostar.jpg" /></a></div>
 </div>
+
+## 联系我们
+
+您可以通过[新浪微博](https://weibo.com/p/1005052804513664)或[电子邮件](mailto:contact@apricot.moe)找到我们。
