@@ -18,8 +18,6 @@ menu_settings:
       url: '/others'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
 
 grid_settings:
   overlay_opacity: 0.7
@@ -32,7 +30,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  weibo_url: 'sfs'
+  weibo_url: 'https://weibo.com/p/1005052804513664'
   facebook_url: ''
   twitter_url: ''
   instagram_url: ''
