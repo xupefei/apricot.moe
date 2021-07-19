@@ -20,7 +20,6 @@ title: About us
   <div class="grid-item"><a href="https://www.gaea.com/cn/" target="_blank"><img alt="age" src="/images/customers/gaea.jpg" /></a></div>
   <div class="grid-item"><a href="https://www.gomashio.co.jp/" target="_blank"><img alt="age" src="/images/customers/gomashio.jpg" /></a></div>
   <div class="grid-item"><a href="https://www.imagineer.co.jp/" target="_blank"><img alt="age" src="/images/customers/imagineer.jpg" /></a></div>
-  <div class="grid-item"><a href="https://www.kadokawa.co.jp/" target="_blank"><img alt="age" src="/images/customers/kadokawa.jpg" /></a></div>
   <div class="grid-item"><a href="http://tv.le.com/" target="_blank"><img alt="age" src="/images/customers/letv.jpg" /></a></div>
   <div class="grid-item"><a href="https://www.medialink.com.hk/en/home.aspx" target="_blank"><img alt="age" src="/images/customers/medialink.jpg" /></a></div>
   <div class="grid-item"><a href="https://www.mgtv.com/" target="_blank"><img alt="age" src="/images/customers/mgtv.jpg" /></a></div>
