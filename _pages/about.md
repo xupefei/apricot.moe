@@ -4,8 +4,8 @@ title: About us
 
 ### 关于 Apricot
 
-我们因共通的兴趣而相互结识，专注于中文日文的互译
-也期待志同道合的你的加入——
+我们因共通的兴趣而相互结识，专注于中日文的互译
+也期待志同道合的伙伴加入——
 
 您可以通过[新浪微博](https://weibo.com/p/1005052804513664)或[电子邮件](mailto:contact@apricot.moe)找到我们。
 
@@ -20,7 +20,6 @@ title: About us
   <div class="grid-item"><a href="https://www.gaea.com/cn/" target="_blank"><img alt="age" src="/images/customers/gaea.jpg" /></a></div>
   <div class="grid-item"><a href="https://www.gomashio.co.jp/" target="_blank"><img alt="age" src="/images/customers/gomashio.jpg" /></a></div>
   <div class="grid-item"><a href="https://www.imagineer.co.jp/" target="_blank"><img alt="age" src="/images/customers/imagineer.jpg" /></a></div>
-  <div class="grid-item"><a href="https://www.kadokawa.co.jp/" target="_blank"><img alt="age" src="/images/customers/kadokawa.jpg" /></a></div>
   <div class="grid-item"><a href="http://tv.le.com/" target="_blank"><img alt="age" src="/images/customers/letv.jpg" /></a></div>
   <div class="grid-item"><a href="https://www.medialink.com.hk/en/home.aspx" target="_blank"><img alt="age" src="/images/customers/medialink.jpg" /></a></div>
   <div class="grid-item"><a href="https://www.mgtv.com/" target="_blank"><img alt="age" src="/images/customers/mgtv.jpg" /></a></div>
