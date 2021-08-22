@@ -2,14 +2,13 @@
 title: About us
 ---
 
-### 关于 Apricot
+### Apricot
 
-我们因共通的兴趣而相互结识，专注于中日文的互译
-也期待志同道合的伙伴加入——
+我们因共通的兴趣而相互结识，专注于中日文的互译，也期待志同道合的伙伴加入——
 
 您可以通过[新浪微博](https://weibo.com/p/1005052804513664)或[电子邮件](mailto:contact@apricot.moe)找到我们。
 
-### 合作伙伴
+### CUSTOMERS
 
 <div class="grid-container">
   <div class="grid-item"><a href="https://age-soft.com/main/" target="_blank"><img alt="age" src="/images/customers/age.jpg" /></a></div>
