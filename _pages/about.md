@@ -16,6 +16,7 @@ title: About us
   <div class="grid-item"><a href="https://www.babeltime.com/" target="_blank"><img alt="age" src="/images/customers/babeltime.jpg" /></a></div>
   <div class="grid-item"><a href="https://www.bilibili.com/" target="_blank"><img alt="age" src="/images/customers/bilibili.jpg" /></a></div>
   <div class="grid-item"><a href="https://www.centurygames.com/" target="_blank"><img alt="age" src="/images/customers/centurygames.jpg" /></a></div>
+  <div class="grid-item"><a href="http://qiye.fanfannet.com/" target="_blank"><img alt="age" src="/images/customers/fanfan.jpg" /></a></div>
   <div class="grid-item"><a href="https://www.gaea.com/cn/" target="_blank"><img alt="age" src="/images/customers/gaea.jpg" /></a></div>
   <div class="grid-item"><a href="https://www.gomashio.co.jp/" target="_blank"><img alt="age" src="/images/customers/gomashio.jpg" /></a></div>
   <div class="grid-item"><a href="https://www.imagineer.co.jp/" target="_blank"><img alt="age" src="/images/customers/imagineer.jpg" /></a></div>
