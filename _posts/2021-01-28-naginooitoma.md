@@ -6,5 +6,6 @@ categories:
 - others
 show_on_index: true
 featured_image: '/images/posts/naginooitoma_1200.jpg'
+featured_image_columns: 2
 external_link: 'https://www.bilibili.com/bangumi/play/ep313084?from=search&seid=2843804758208554440'
 ---
