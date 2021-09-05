@@ -1,7 +1,7 @@
 ---
 title: '北京女子図鑑'
 subtitle: '日本語字幕版制作'
-date: 2021-04-29 00:00:00
+date: 2020-04-29 00:00:00
 categories:
 - others
 show_on_index: true
