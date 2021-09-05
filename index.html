@@ -6,7 +6,7 @@ layout: default
 
     <div class="content-wrap portfolio-wrap">
         <div class="portfolio-column"></div>
-        {% for post in site.posts reversed %}
+        {% for post in site.posts %}
         {% if post.show_on_index != true %}
         {% continue %}
         {% else %}
