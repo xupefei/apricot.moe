@@ -1,7 +1,7 @@
 ---
 title: '宝石商人理查德的谜鉴定'
 subtitle: '翻译（日译中）/字幕时间轴/字幕特效/视频压制'
-date: 2021-04-29 00:00:00
+date: 2020-04-29 00:00:00
 categories:
 - anime
 show_on_index: true
