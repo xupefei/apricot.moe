@@ -1,6 +1,6 @@
 ---
 title: 'Revived Witch -蘇りの魔女-'
-title2: '超哥牛逼'
+title2: '超哥牛逼啊'
 subtitle: 'シナリオ＆セリフ翻訳（中国語→日本語）'
 date: 2022-08-26 00:00:00
 categories:
