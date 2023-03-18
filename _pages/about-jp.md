@@ -40,14 +40,12 @@ title: About us
 <table style="border: none;">
 <style>tr { background: white !important; }</style>
   <tbody>
-    <tr><td>社名</td><td>株式会社訳坊</td></tr>
-    <tr><td>社名(英文名)</td><td>Yakubo Co., Ltd.</td></tr>
-    <tr><td>設立</td><td>2010年10月28日</td></tr>
-    <tr><td>代表取締役</td><td>柚木 淑華（ゆのき しゅくか）</td></tr>
-    <tr><td>所在地</td><td>〒110-0001東京都台東区谷中3-13-18 Yakubo House</td></tr>
-    <tr><td></td><td>TEL：03-5832-9384　FAX：03-5832-9385</td></tr>
-    <tr><td>事業内容</td><td>多言語翻訳サービス・通訳事業</td></tr>
-    <tr><td>所属団体</td><td>一般社団法人 日本展示会協会</td></tr>
-    <tr><td>事業許可番号</td><td>有料職業紹介事業(13-ユ-310024)</td></tr>
+    <tr><td>社名</td><td>株式会社Apricot</td></tr>
+    <tr><td>設立</td><td>2023年2月21日</td></tr>
+    <tr><td>代表取締役</td><td>範　雲 龍</td></tr>
+    <tr><td>所在地</td><td>150-0002　東京都渋谷区渋谷2-19-15宮益坂ビルディング609 TEL 080-9304-4403</td></tr>
+    <tr><td>メールアドレス</td><td>contact@apricot.moe</td></tr>
+    <tr><td></td>TEL<td>080-9304-4403</td></tr>
+    <tr><td>事業内容</td><td>翻訳サービス・ローカライゼーション事業</td></tr>
   </tbody>
 </table>
