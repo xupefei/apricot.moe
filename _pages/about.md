@@ -2,11 +2,27 @@
 title: About us
 ---
 
-### Apricot
+# Apricot
 
-我们因共通的兴趣而相互结识，专注于中日文的互译，也期待志同道合的伙伴加入——
+ゲームローカライズに強い日中・中日翻訳スペシャリスト。
+どんなコンテンツでも内容に応じて柔軟に対応いたします。
 
-您可以通过[新浪微博](https://weibo.com/p/1005052804513664)或[电子邮件](mailto:contact@apricot.moe)找到我们。
+お問い合わせは以下から——
+
+#### 会社概要
+
+<table style="border: none;">
+  <tbody>
+    <tr><td>社名</td><td>株式会社Apricot</td></tr>
+    <tr><td>設立</td><td>2023年2月21日</td></tr>
+    <tr><td>代表取締役</td><td>範　雲 龍</td></tr>
+    <tr><td>所在地</td><td>〒150-0002　東京都渋谷区渋谷2-19-15宮益坂ビルディング609</td></tr>
+    <tr><td>TEL</td><td>080-9304-4403</td></tr>
+    <tr><td>メールアドレス</td><td>contact@apricot.moe</td></tr>
+    <tr><td>事業内容</td><td>翻訳サービス・ローカライゼーション事業</td></tr>
+  </tbody>
+</table>
+
 
 ### Customers
 
