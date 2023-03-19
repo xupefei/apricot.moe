@@ -1,6 +1,6 @@
 ---
-title: '终结的炽天使'
-subtitle: '翻译（日译中）'
+title: '終わりのセラフ'
+subtitle: '中国語版制作'
 date: 2020-04-29 00:00:00
 categories:
 - others
