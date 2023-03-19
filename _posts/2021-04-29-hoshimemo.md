@@ -1,6 +1,6 @@
 ---
-title: '星空的记忆'
-subtitle: '中文本地化'
+title: '星空のメモリア -Wish upon a shooting star-'
+subtitle: 'ローカライゼーション（日本語→中国語）'
 date: 2021-04-30 00:00:00
 categories:
 - game
