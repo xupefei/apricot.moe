@@ -1,6 +1,6 @@
 ---
-title: '冤罪律师'
-subtitle: '翻译（日译中）/字幕时间轴/视频剪辑处理/视频压制/报审对应'
+title: 'イノセンス 冤罪弁護士'
+subtitle: '中国語字幕版製作'
 date: 2020-04-29 00:00:00
 categories:
 - others
