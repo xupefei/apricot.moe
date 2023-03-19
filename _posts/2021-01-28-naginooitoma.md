@@ -1,6 +1,6 @@
 ---
-title: '凪的新生活'
-subtitle: '翻译（日译中）/字幕时间轴/视频剪辑处理/视频压制/报审对应'
+title: '凪のお暇'
+subtitle: '中国語字幕版製作'
 date: 2021-01-29 00:00:00
 categories:
 - others
