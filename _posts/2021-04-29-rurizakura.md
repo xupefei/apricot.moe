@@ -1,6 +1,6 @@
 ---
-title: '琉璃樱'
-subtitle: '中文本地化'
+title: '琉璃桜'
+subtitle: 'ローカライゼーション（日本語→中国語）'
 date: 2021-04-30 00:00:00
 categories:
 - game
