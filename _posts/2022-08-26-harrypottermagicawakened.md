@@ -1,6 +1,6 @@
 ---
 title: 'ハリー・ポッター：魔法の覚醒'
-subtitle: 'LQA'
+subtitle: 'QA作業・システムテキスト＆セリフ翻訳（中国語→日本語）'
 date: 2022-08-26 00:00:00
 categories:
 - game
