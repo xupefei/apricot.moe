@@ -1,7 +1,7 @@
 ---
 title: 'Revived Witch -蘇りの魔女-'
 subtitle: 'シナリオ＆セリフ翻訳（中国語→日本語）'
-date: 2022-08-26 00:00:00
+date: 2022-12-26 00:00:00
 categories:
 - game
 show_on_index: true
