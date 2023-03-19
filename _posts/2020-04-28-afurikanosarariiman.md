@@ -1,6 +1,6 @@
 ---
-title: '非洲动物上班族'
-subtitle: '翻译（日译中）/字幕时间轴/字幕特效/视频压制'
+title: 'アフリカのサラリーマン'
+subtitle: '中国語字幕版製作'
 date: 2020-04-29 00:00:00
 categories:
 - anime
