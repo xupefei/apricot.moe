@@ -11,7 +11,7 @@ title: About us
 
 #### 会社概要
 
-<table style="border: none;">
+<table style="border: none; font-family:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro',Osaka, 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;">
   <tbody>
     <tr><td>社名</td><td>株式会社Apricot</td></tr>
     <tr><td>設立</td><td>2023年2月21日</td></tr>
