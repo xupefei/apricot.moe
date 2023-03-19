@@ -1,0 +1,11 @@
+---
+title: '誓約少女～祝砲の元に集いし戦姫たち'
+subtitle: 'シナリオ＆セリフ翻訳（中国語→日本語）'
+date: 2023-03-19 00:00:00
+categories:
+- game
+show_on_index: true
+featured_image: '/images/posts/oath2.jpg'
+featured_image_columns: 2
+external_link: 'https://pre.oath-games.com/pr'
+---
