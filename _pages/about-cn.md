@@ -8,7 +8,7 @@ title: About us
 
 ### Apricot
 
-我们因共通的兴趣而相互结识，专注于中日文的互译，也期待志同道合的伙伴加入——
+专注于中日文的互译，也期待志同道合的伙伴加入——
 
 您可以通过[电子邮件](mailto:contact@apricot.moe)找到我们。
 
@@ -35,16 +35,16 @@ title: About us
   <div class="grid-item"><a href="https://www.yostar.co.jp/" target="_blank"><img alt="yostar" src="/images/customers/new_yostar.jpg" /></a></div>
 </div>
 
-## 会社概要
+## 公司概要
 
 <table style="border: none;">
   <tbody>
-    <tr><td>社名</td><td>株式会社Apricot</td></tr>
-    <tr><td>設立</td><td>2023年2月21日</td></tr>
-    <tr><td>代表取締役</td><td>範　雲 龍</td></tr>
+    <tr><td>公司名</td><td>株式会社Apricot</td></tr>
+    <tr><td>成立</td><td>2023年2月21日</td></tr>
+    <tr><td>代表</td><td>范　云龙/td></tr>
     <tr><td>所在地</td><td>150-0002　東京都渋谷区渋谷2-19-15宮益坂ビルディング609</td></tr>
-    <tr><td>メールアドレス</td><td>contact@apricot.moe</td></tr>
+    <tr><td>电子邮箱</td><td>contact@apricot.moe</td></tr>
     <tr><td>TEL</td><td>080-9304-4403</td></tr>
-    <tr><td>事業内容</td><td>翻訳サービス・ローカライゼーション事業</td></tr>
+    <tr><td>事业内容</td><td>翻译服务・本地化服务</td></tr>
   </tbody>
 </table>
