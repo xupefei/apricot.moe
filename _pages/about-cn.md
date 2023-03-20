@@ -42,7 +42,7 @@ title: About us
     <tr><td>社名</td><td>株式会社Apricot</td></tr>
     <tr><td>設立</td><td>2023年2月21日</td></tr>
     <tr><td>代表取締役</td><td>範　雲 龍</td></tr>
-    <tr><td>所在地</td><td>150-0002　東京都渋谷区渋谷2-19-15宮益坂ビルディング609 TEL 080-9304-4403</td></tr>
+    <tr><td>所在地</td><td>150-0002　東京都渋谷区渋谷2-19-15宮益坂ビルディング609</td></tr>
     <tr><td>メールアドレス</td><td>contact@apricot.moe</td></tr>
     <tr><td>TEL</td><td>080-9304-4403</td></tr>
     <tr><td>事業内容</td><td>翻訳サービス・ローカライゼーション事業</td></tr>
