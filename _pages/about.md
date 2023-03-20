@@ -3,7 +3,7 @@ title: About us
 ---
 
 <div style="text-align:right;">
-<p style="max-width: 100%;"><a href="/about-jp">日本語版はこちら</a></p>
+<p style="max-width: 100%;"><a href="/about-jp">中文点这里</a></p>
 </div>
 
 # Apricot
