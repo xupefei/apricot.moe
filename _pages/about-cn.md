@@ -23,7 +23,6 @@ title: About us
   <div class="grid-item"><a href="https://www.centurygames.com/" target="_blank"><img alt="centurygames" src="/images/customers/centurygames.jpg" /></a></div>
   <div class="grid-item"><a href="http://qiye.fanfannet.com/" target="_blank"><img alt="fanfan" src="/images/customers/fanfan.jpg" /></a></div>
   <div class="grid-item"><a href="https://www.gaea.com/cn/" target="_blank"><img alt="gaea" src="/images/customers/gaea.jpg" /></a></div>
-  <div class="grid-item"><a href="https://www.gomashio.co.jp/" target="_blank"><img alt="gomashio" src="/images/customers/gomashio.jpg" /></a></div>
   <div class="grid-item"><a href="https://www.imagineer.co.jp/" target="_blank"><img alt="imagineer" src="/images/customers/imagineer.jpg" /></a></div>
   <div class="grid-item"><a href="https://kadokawa-gm.com/" target="_blank"><img alt="kadokawa" src="/images/customers/kadokawa_gm.jpg" /></a></div>
   <div class="grid-item"><a href="http://tv.le.com/" target="_blank"><img alt="letv" src="/images/customers/letv.jpg" /></a></div>
