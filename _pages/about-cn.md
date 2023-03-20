@@ -41,7 +41,7 @@ title: About us
   <tbody>
     <tr><td>公司名</td><td>株式会社Apricot</td></tr>
     <tr><td>成立</td><td>2023年2月21日</td></tr>
-    <tr><td>代表</td><td>范　云龙/td></tr>
+    <tr><td>代表</td><td>范　云龙</td></tr>
     <tr><td>所在地</td><td>150-0002　東京都渋谷区渋谷2-19-15宮益坂ビルディング609</td></tr>
     <tr><td>电子邮箱</td><td>contact@apricot.moe</td></tr>
     <tr><td>TEL</td><td>080-9304-4403</td></tr>
