@@ -38,7 +38,6 @@ title: About us
 ## 会社概要
 
 <table style="border: none;">
-<style>tr { background: white !important; }</style>
   <tbody>
     <tr><td>社名</td><td>株式会社Apricot</td></tr>
     <tr><td>設立</td><td>2023年2月21日</td></tr>
