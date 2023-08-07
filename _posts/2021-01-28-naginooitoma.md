@@ -1,6 +1,6 @@
 ---
 title: '凪のお暇'
-subtitle: '中国語字幕版製作'
+subtitle: '中国語字幕版制作'
 date: 2021-01-29 00:00:00
 categories:
 - others

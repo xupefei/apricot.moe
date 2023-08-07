@@ -1,6 +1,6 @@
 ---
 title: '劇場版 中二病でも恋がしたい! TakeOn Me'
-subtitle: '中国語字幕版製作'
+subtitle: '中国語字幕版制作'
 date: 2021-04-30 00:00:00
 categories:
 - anime

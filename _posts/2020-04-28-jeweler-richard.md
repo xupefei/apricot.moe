@@ -1,6 +1,6 @@
 ---
 title: '宝石商リチャード氏の謎鑑定'
-subtitle: '中国語字幕版製作'
+subtitle: '中国語字幕版制作'
 date: 2020-04-29 00:00:00
 categories:
 - anime

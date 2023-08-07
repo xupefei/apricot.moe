@@ -1,6 +1,6 @@
 ---
 title: 'ゾンビランドサガ'
-subtitle: '中国語字幕版製作'
+subtitle: '中国語字幕版制作'
 date: 2021-04-20 00:00:00
 categories:
 - anime
