@@ -6,6 +6,6 @@ categories:
 - game
 show_on_index: true
 featured_image: '/images/posts/arknights.jpg'
-featured_image_columns: 1
+featured_image_columns: 2
 external_link: 'https://www.arknights.jp/'
 ---
